@@ -2,7 +2,7 @@
 project (project_test)
 
 # Add a library with the above sources
-# Add all srouce files accordingly into this segment
+# Add all source files accordingly into this segment
 add_library(${PROJECT_NAME} 
     src/adder.c
     src/subtract.c
