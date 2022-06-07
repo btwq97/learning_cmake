@@ -20,3 +20,5 @@ make all
 ```
 ./bin/binary_test
 ```
+6. test
+
